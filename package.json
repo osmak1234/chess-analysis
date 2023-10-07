@@ -10,8 +10,9 @@
     "tauri": "tauri"
   },
   "dependencies": {
+    "@tauri-apps/api": "^1.4.0",
     "preact": "^10.16.0",
-    "@tauri-apps/api": "^1.4.0"
+    "react-chartjs-2": "^5.2.0"
   },
   "devDependencies": {
     "@preact/preset-vite": "^2.5.0",
